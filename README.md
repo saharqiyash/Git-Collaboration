@@ -1,2 +1,3 @@
 # Git-Collaboration
-Group Project 1
+GitHub Collaboration : Ebinehita Olumese and Sahar Qiyash
+What is Git Workflow?
