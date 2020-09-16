@@ -26,3 +26,7 @@ You can use git checkout on the command line to create a new branch, change your
 
 ###Push:
 To push means to send your committed changes to a remote repository on GitHub.com. For instance, if you change something locally, you can push those changes so that others may access them.
+
+###Pull:
+Pull refers to when you are fetching in changes and merging them. For instance, if someone has edited the remote file you're both working on, you'll want to pull in those changes to your local copy so that it's up to date. See also fetch.
+
