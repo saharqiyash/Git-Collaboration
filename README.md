@@ -30,3 +30,5 @@ To push means to send your committed changes to a remote repository on GitHub.co
 ###Pull:
 Pull refers to when you are fetching in changes and merging them. For instance, if someone has edited the remote file you're both working on, you'll want to pull in those changes to your local copy so that it's up to date. See also fetch.
 
+###Remote:
+This is the version of a repository or branch that is hosted on a server, most likely GitHub.com. Remote versions can be connected to local clones so that changes can be synced. This function can be used to add/remove/show git branches or origins.
