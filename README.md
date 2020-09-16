@@ -12,5 +12,5 @@ A clone is a copy of a repository that lives on your computer instead of on a we
 ###Fork:
 A fork is a personal copy of another user's repository that lives on your account. Fork allows you to freely make changes to a project without affecting the original upstream repository. You can also open a pull request in the upstream repository and keep your fork synced with the latest changes since both repositories are still connected.
 
-
-
+###Branch:
+A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or master branch allowing you to work freely without disrupting the "live" version. When you've made the changes you want to make, you can merge your branch back into the master branch to publish your changes.
