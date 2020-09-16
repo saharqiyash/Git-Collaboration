@@ -32,3 +32,6 @@ Pull refers to when you are fetching in changes and merging them. For instance, 
 
 ###Remote:
 This is the version of a repository or branch that is hosted on a server, most likely GitHub.com. Remote versions can be connected to local clones so that changes can be synced. This function can be used to add/remove/show git branches or origins.
+
+###Status:
+A visual representation within a pull request that your commits meet the conditions set for the repository you're contributing to.
