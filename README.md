@@ -6,7 +6,7 @@ Git Workflow design showcases a bracing model designed around the project. This 
 ###Repository: 
 tracks all changes made to files in your project, building a history over time.
 
-###Clone
+###Clone:
 A clone is a copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy. When you make a clone, you can edit the files in your preferred editor and use Git to keep track of your changes without having to be online. The repository you cloned is still connected to the remote version so that you can push your local changes to the remote to keep them synced when you're online.
 
 ###Fork:
